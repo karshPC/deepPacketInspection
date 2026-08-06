@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/karsh/Desktop/deepPacketInspection/build",
+  "command": "/usr/bin/c++  -I/Users/karsh/Desktop/deepPacketInspection/include -std=gnu++17 -arch arm64 -o CMakeFiles/packet_analyzer.dir/src/main.cpp.o -c /Users/karsh/Desktop/deepPacketInspection/src/main.cpp",
+  "file": "/Users/karsh/Desktop/deepPacketInspection/src/main.cpp",
+  "output": "CMakeFiles/packet_analyzer.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/karsh/Desktop/deepPacketInspection/build",
+  "command": "/usr/bin/c++  -I/Users/karsh/Desktop/deepPacketInspection/include -std=gnu++17 -arch arm64 -o CMakeFiles/packet_analyzer.dir/src/pcap_reader.cpp.o -c /Users/karsh/Desktop/deepPacketInspection/src/pcap_reader.cpp",
+  "file": "/Users/karsh/Desktop/deepPacketInspection/src/pcap_reader.cpp",
+  "output": "CMakeFiles/packet_analyzer.dir/src/pcap_reader.cpp.o"
+},
+{
+  "directory": "/Users/karsh/Desktop/deepPacketInspection/build",
+  "command": "/usr/bin/c++  -I/Users/karsh/Desktop/deepPacketInspection/include -std=gnu++17 -arch arm64 -o CMakeFiles/packet_analyzer.dir/src/packet_parser.cpp.o -c /Users/karsh/Desktop/deepPacketInspection/src/packet_parser.cpp",
+  "file": "/Users/karsh/Desktop/deepPacketInspection/src/packet_parser.cpp",
+  "output": "CMakeFiles/packet_analyzer.dir/src/packet_parser.cpp.o"
+},
+{
+  "directory": "/Users/karsh/Desktop/deepPacketInspection/build",
+  "command": "/usr/bin/c++  -I/Users/karsh/Desktop/deepPacketInspection/include -std=gnu++17 -arch arm64 -o CMakeFiles/dpi_engine.dir/src/dpi_mt.cpp.o -c /Users/karsh/Desktop/deepPacketInspection/src/dpi_mt.cpp",
+  "file": "/Users/karsh/Desktop/deepPacketInspection/src/dpi_mt.cpp",
+  "output": "CMakeFiles/dpi_engine.dir/src/dpi_mt.cpp.o"
+},
+{
+  "directory": "/Users/karsh/Desktop/deepPacketInspection/build",
+  "command": "/usr/bin/c++  -I/Users/karsh/Desktop/deepPacketInspection/include -std=gnu++17 -arch arm64 -o CMakeFiles/dpi_engine.dir/src/pcap_reader.cpp.o -c /Users/karsh/Desktop/deepPacketInspection/src/pcap_reader.cpp",
+  "file": "/Users/karsh/Desktop/deepPacketInspection/src/pcap_reader.cpp",
+  "output": "CMakeFiles/dpi_engine.dir/src/pcap_reader.cpp.o"
+},
+{
+  "directory": "/Users/karsh/Desktop/deepPacketInspection/build",
+  "command": "/usr/bin/c++  -I/Users/karsh/Desktop/deepPacketInspection/include -std=gnu++17 -arch arm64 -o CMakeFiles/dpi_engine.dir/src/packet_parser.cpp.o -c /Users/karsh/Desktop/deepPacketInspection/src/packet_parser.cpp",
+  "file": "/Users/karsh/Desktop/deepPacketInspection/src/packet_parser.cpp",
+  "output": "CMakeFiles/dpi_engine.dir/src/packet_parser.cpp.o"
+},
+{
+  "directory": "/Users/karsh/Desktop/deepPacketInspection/build",
+  "command": "/usr/bin/c++  -I/Users/karsh/Desktop/deepPacketInspection/include -std=gnu++17 -arch arm64 -o CMakeFiles/dpi_engine.dir/src/sni_extractor.cpp.o -c /Users/karsh/Desktop/deepPacketInspection/src/sni_extractor.cpp",
+  "file": "/Users/karsh/Desktop/deepPacketInspection/src/sni_extractor.cpp",
+  "output": "CMakeFiles/dpi_engine.dir/src/sni_extractor.cpp.o"
+},
+{
+  "directory": "/Users/karsh/Desktop/deepPacketInspection/build",
+  "command": "/usr/bin/c++  -I/Users/karsh/Desktop/deepPacketInspection/include -std=gnu++17 -arch arm64 -o CMakeFiles/dpi_engine.dir/src/types.cpp.o -c /Users/karsh/Desktop/deepPacketInspection/src/types.cpp",
+  "file": "/Users/karsh/Desktop/deepPacketInspection/src/types.cpp",
+  "output": "CMakeFiles/dpi_engine.dir/src/types.cpp.o"
+}
+]

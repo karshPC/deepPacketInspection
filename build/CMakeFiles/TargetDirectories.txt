@@ -1,0 +1,4 @@
+/Users/karsh/Desktop/deepPacketInspection/build/CMakeFiles/packet_analyzer.dir
+/Users/karsh/Desktop/deepPacketInspection/build/CMakeFiles/dpi_engine.dir
+/Users/karsh/Desktop/deepPacketInspection/build/CMakeFiles/edit_cache.dir
+/Users/karsh/Desktop/deepPacketInspection/build/CMakeFiles/rebuild_cache.dir
